@@ -1,11 +1,13 @@
-Hi, I'm Alberto Molina<br>I'm a student at University Carlos III at Madrid<br>Double Major is Computer Engineering and Business Administration<br><br>I recently got into Machine Learning and I'm very excited to learn more
+<h1 align="center">Hi, I'm Albertp</h1>
+<h3 align="center">CS and Business Administration major at Carlos III University at Madrid</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=albertomolinafelipe&label=Profile%20views&color=0e75b6&style=plastic" alt="albertomolinafelipe" /> </p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/albertomolinafelipe) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/albertomf02) 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/albertomf02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="albertomf02" height="30" width="40" /></a>
+<a href="https://instagram.com/albertomolinafelipe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="albertomolinafelipe" height="30" width="40" /></a>
+</p>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
----
-[![](https://visitcount.itsvg.in/api?id=albertomolinafelipe&icon=0&color=0)](https://visitcount.itsvg.in)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
