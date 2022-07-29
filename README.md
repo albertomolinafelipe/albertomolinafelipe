@@ -1,4 +1,4 @@
-<img src="https://github.com/albertomolinafelipe/albertomolinafelipe/blob/main/github_banner.png" alt="banne">
+<img src="https://github.com/albertomolinafelipe/albertomolinafelipe/blob/main/github_banner.png" alt="banner">
 <h5 align="left">- 📖 I'm a Double Major in CS and Business Administration</h3>
 <h5 align="left">- 🌱 I’m currently learning Machine Learning</h3>
 
