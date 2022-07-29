@@ -1,8 +1,6 @@
-<h1 align="left">Hi, I'm Alberto Molina</h1>
-<h3 align="left">Student at Carlos III University at Madrid</h3>
-
-- 📖 I'm a **Double Major in CS and Business Administration**
-- 🌱 I’m currently learning **Machine Learning**
+<img src="https://github.com/albertomolinafelipe/albertomolinafelipe/blob/main/github_banner.png" alt="banne">
+<h5 align="left">- 📖 I'm a **Double Major in CS and Business Administration**</h3>
+<h5 align="left">- 🌱 I’m currently learning **Machine Learning**</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
