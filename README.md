@@ -1,7 +1,4 @@
 <img src="https://github.com/albertomolinafelipe/albertomolinafelipe/blob/main/readme_banner.png" alt="banner">
-<h5 align="left">- 📖 I'm a Double Major in CS and Business Administration</h3>
-<h5 align="left">- 🌱 I’m currently learning Machine Learning</h3>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/albertomf02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="albertomf02" height="30" width="40" /></a>
