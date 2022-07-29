@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Albertp</h1>
-<h3 align="center">CS and Business Administration major at Carlos III University at Madrid</h3>
+<h1 align="left">Hi, I'm AlbertO Molina</h1>
+<h3 align="left">CS and Business Administration major at Carlos III University at Madrid</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albertomolinafelipe&label=Profile%20views&color=0e75b6&style=plastic" alt="albertomolinafelipe" /> </p>
 
