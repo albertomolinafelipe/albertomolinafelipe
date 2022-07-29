@@ -1,7 +1,8 @@
 <h1 align="left">Hi, I'm AlbertO Molina</h1>
-<h3 align="left">CS and Business Administration major at Carlos III University at Madrid</h3>
+<h3 align="left"Student at Carlos III University at Madrid</h3>
+<h4 align="left">CS and Business Administration major</h3>
+<h4 align="left">I recently got into Machine Learning and I'm very excited to learn more</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=albertomolinafelipe&label=Profile%20views&color=0e75b6&style=plastic" alt="albertomolinafelipe" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
