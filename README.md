@@ -1,6 +1,6 @@
 <img src="https://github.com/albertomolinafelipe/albertomolinafelipe/blob/main/github_banner.png" alt="banne">
-<h5 align="left">- 📖 I'm a **Double Major in CS and Business Administration**</h3>
-<h5 align="left">- 🌱 I’m currently learning **Machine Learning**</h3>
+<h5 align="left">- 📖 I'm a Double Major in CS and Business Administration</h3>
+<h5 align="left">- 🌱 I’m currently learning Machine Learning</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
