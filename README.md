@@ -1,8 +1,7 @@
 <h1 align="left">Hi, I'm Alberto Molina</h1>
 <h3 align="left">Student at Carlos III University at Madrid</h3>
 
-- 📖 I'm a **CS and Business Administration double major***
-
+- 📖 I'm a **Double Major in CS and Business Administration**
 - 🌱 I’m currently learning **Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
