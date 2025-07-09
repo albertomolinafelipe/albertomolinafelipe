@@ -1,15 +1,9 @@
-<img src="https://github.com/albertomolinafelipe/albertomolinafelipe/blob/main/github_banner.png" alt="banner">
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </p>
+### Hi, I'm Alberto
 
-<h3 align="left">Currently learning:</h3>
-<p align="left"> 
-  <a> <img src="https://www.rust-lang.org/logos/rust-logo-128x128.png" alt="rust" width="40" height="40"/>  </a> 
-  <a> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> </a>
-  <a> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="35" height="40"/> </a>
-</p>
- 
-
+- 📚 Final year - Computer Science and Business Administration @ UC3M
+- 📍 Madrid, Spain
+- 🌱 Working with:
+![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python)&nbsp;
+![AI](https://img.shields.io/badge/-AI-0D1117?style=flat&logo=openai)&nbsp;
+![Rust](https://img.shields.io/badge/-Rust-0D1117?style=flat&logo=rust)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker)&nbsp;
