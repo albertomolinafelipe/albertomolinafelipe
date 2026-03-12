@@ -6,7 +6,7 @@
 
 # About Me
 
-- 📚 Final year - Computer Science and Business Administration @ UC3M
+- 📚 Computer Science and Business Administration @ UC3M
 - 📍 Madrid, Spain
 - 🌱 Working with:
 
