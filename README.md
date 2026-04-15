@@ -1,6 +1,6 @@
 # Alberto Molina Felipe
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&letterSpacing=&duration=4000&pause=500&color=9C9C9CFF&vCenter=true&width=800&lines=SW+Engineer+%40+Multiverse+Computing+;Computer+Science+%26+Business+Administration)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&letterSpacing=&duration=4000&pause=500&color=9C9C9CFF&vCenter=true&width=800&lines=SW+Engineer+%40+Multiverse+Computing+;Computer+Science+%26+Business+Management)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/albertomolinafelipe/"><img src="https://img.shields.io/badge/LinkedIn-9C9C9C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
